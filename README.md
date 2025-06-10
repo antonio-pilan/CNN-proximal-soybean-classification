@@ -109,5 +109,7 @@ Future work should focus on the following areas to improve model performance:
 
 ## References
 [1] Wei Lin, Youhao Fu, Peiquan Xu, Shuo Liu, Daoyi Ma, Zitian Jiang, Siyang Zang, Heyang Yao, and Qin Su. *Soybean image dataset for classification*. Elsevier, 2023. 
+
 [2] François Chollet. *Deep Learning with Python*. Manning, second edition, 2021. 
+
 [3] Jayme Garcia Arnal Barbedo. *Deep learning for soybean monitoring and management*. Seeds, 2023.
